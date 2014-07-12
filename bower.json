@@ -1,0 +1,16 @@
+{
+  "name": "react-rcs-bower",
+  "version": "0.0.0",
+  "authors": [
+    "Chad Scira <chadvscira@gmail.com>"
+  ],
+  "main": "rcs.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
